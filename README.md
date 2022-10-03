@@ -1,12 +1,12 @@
 #  Udacity Project for Disaster Relief Pipeline
 
 ## Installation
-Any Python version 3.5+
-ML libraries: NumPy, SciPy, Pandas, Sciki-Learn
-Natural Language Processing Library: NLTK
-Web apps and data visualization: Flask, Plotly
-Library for loading and saving models: Pickle
-SQLlite database library: SQLalchemy
+ Any Python version 3.5+
+ ML libraries: NumPy, SciPy, Pandas, Sciki-Learn
+ Natural Language Processing Library: NLTK
+ Web apps and data visualization: Flask, Plotly
+ Library for loading and saving models: Pickle
+ SQLlite database library: SQLalchemy
 
 ## Motivation
 In this Udacity DRP Project, we applied data engineering, natural language processing, and machine learning to analyze message data sent by people  during a disaster and created a model for an API to classify disaster messages. These messages may be sent to appropriate disaster relief organizations.
