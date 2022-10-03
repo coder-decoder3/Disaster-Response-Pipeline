@@ -2,10 +2,15 @@
 
 ## Installation
  Any Python version 3.5+
+ 
  ML libraries: NumPy, SciPy, Pandas, Sciki-Learn
+ 
  Natural Language Processing Library: NLTK
+ 
  Web apps and data visualization: Flask, Plotly
+ 
  Library for loading and saving models: Pickle
+ 
  SQLlite database library: SQLalchemy
 
 ## Motivation
